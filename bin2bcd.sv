@@ -1,3 +1,5 @@
+// used from @AlexBrionesG bin2BCD file (NOT MY OWN, JUST USED FOR THIS PROJECT)
+
 module bin2BCD(
 	input [7:0] binary,
 	output reg [3:0] Hundreds,
